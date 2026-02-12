@@ -8,12 +8,6 @@ public class startPractice2 {
         sumofallelements(matrix);
         sumofcolumn(matrix);
         sumoflargestcolumn(matrix);
-
-
-
-
-
-
     }
     public static void randomelements (int[][] array) {
         // random elements
